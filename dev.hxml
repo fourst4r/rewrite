@@ -1,0 +1,4 @@
+--class-path .
+--main rewrite.Main
+--library haxeparser:git
+--interp
